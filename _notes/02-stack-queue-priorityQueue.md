@@ -6,9 +6,6 @@
 | Insert / Delete |  O(1) | 
 
   
-
-
-
 ## Queue
 - Array or Double Linked List
 
@@ -27,6 +24,7 @@
 - LeetCode 20: 
 - LeetCode 232, 225 Stack <=> Queue
 
-- linked list cycle
-- reerse nodes in k group
+- LeetCode 703: Kth (Priority Queue)
+- LeetCode 239: Sliding window (Priority Queue or Deque)
+- reverse nodes in k group
 
