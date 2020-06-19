@@ -13,3 +13,4 @@
 
 ## Problems
 - Leetcode 69: sqrt(x)
+- Leetcode 52: N queens
